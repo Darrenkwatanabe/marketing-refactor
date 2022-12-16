@@ -134,6 +134,13 @@ p {
     max-width: 150px;
 }
 
+.digital-marketing-meeting img {
+    display: block;
+    max-width: 1900px;
+    max-height: 1900px;
+    margin-bottom: none;
+}
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
