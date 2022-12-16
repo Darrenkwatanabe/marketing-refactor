@@ -47,6 +47,7 @@ First we were given the starter code containing below:
 I changed the non-semantic div header class to the header semantic element. 
 As well as changing the non semantic div element to a nav element. 
 
+```html
 <h1>Hori<span class="seo">seo</span>n</h1>
         <nav>
             <ul>
